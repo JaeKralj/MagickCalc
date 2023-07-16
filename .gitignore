@@ -11,7 +11,7 @@ npm-debug.*
 web-build/
 firebase.json
 .firebaserc
-misc.txt
+misc.md
 
 # macOS
 .DS_Store
